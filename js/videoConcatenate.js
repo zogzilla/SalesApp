@@ -9,11 +9,11 @@ $(function() {
       steps: {
         movie_1: {
           robot : "/http/import",
-          url   : "http://html5videoformatconverter.com/data/images/happyfit2.mp4"
+          url   : "https://vimeo.com/131322564#t=0s"
         },
         movie_2: {
           robot : "/http/import",
-          url   : "http://html5videoformatconverter.com/data/images/happyfit2.mp4"
+          url   : "https://vimeo.com/131322521#t=0s"
         },
         concat: {
           use: {
