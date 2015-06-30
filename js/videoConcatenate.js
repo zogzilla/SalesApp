@@ -9,11 +9,11 @@ $(function() {
       steps: {
         movie_1: {
           robot : "/http/import",
-          url   : "http://html5videoformatconverter.com/data/images/happyfit2.mp4"
+          url   : "https://pdlvimeocdn-a.akamaihd.net/06472/032/382523386.mp4?token2=1435676777_bfa8cd4d5b88fcffe23ed377344732c3&amp;aksessionid=f32f253878cb6e76"
         },
         movie_2: {
           robot : "/http/import",
-          url   : "http://html5videoformatconverter.com/data/images/happyfit2.mp4"
+          url   : "https://pdlvimeocdn-a.akamaihd.net/44818/485/382523721.mp4?token2=1435676744_5fd6736e74c85aa916d5219165c518ba&amp;aksessionid=4fac7dcacbc26baa"
         },
         concat: {
           use: {
