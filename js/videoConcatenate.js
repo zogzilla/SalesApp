@@ -9,7 +9,7 @@ $(function() {
       steps: {
         movie_1: {
           robot : "/http/import",
-          url   : "https://pdlvimeocdn-a.akamaihd.net/06472/032/382523386.mp4?token2=1435676777_bfa8cd4d5b88fcffe23ed377344732c3&amp;aksessionid=f32f253878cb6e76"
+          url   : "https://pdlvimeocdn-a.akamaihd.net/06472/032/382523386.mp4?token2=1436880365_ad20e7d0af0f720df0df640d3bc4832f&amp;aksessionid=0e95b66a20c3496d"
         },
         movie_2: {
           robot : "/http/import",
