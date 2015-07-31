@@ -9,11 +9,11 @@ $(function() {
       steps: {
         movie_1: {
           robot : "/http/import",
-          url   : "https://pdlvimeocdn-a.akamaihd.net/06472/032/382523386.mp4?token2=1436880365_ad20e7d0af0f720df0df640d3bc4832f&amp;aksessionid=0e95b66a20c3496d"
+          url   : "https://www.youtube.com/embed/NIJAF80gWRs"
         },
         movie_2: {
           robot : "/http/import",
-          url   : "https://pdlvimeocdn-a.akamaihd.net/44818/485/382523721.mp4?token2=1435676744_5fd6736e74c85aa916d5219165c518ba&amp;aksessionid=4fac7dcacbc26baa"
+          url   : "https://www.youtube.com/embed/B2LfTLf4xb0"
         },
         concat: {
           use: {
